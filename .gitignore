@@ -1,3 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
 # Виртуальное окружение
 Lib/
 Scripts/
@@ -7,3 +15,7 @@ tcl/
 
 # IDE
 .idea/
+
+# Данные
+*.pkl
+data/
